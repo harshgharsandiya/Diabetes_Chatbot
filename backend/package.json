@@ -29,6 +29,7 @@
         "nodemailer": "^7.0.5",
         "pdf-lib": "^1.17.1",
         "resend": "^6.4.2",
+        "sharp": "^0.34.5",
         "tesseract.js": "^6.0.1"
     }
 }
